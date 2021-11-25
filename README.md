@@ -1,4 +1,5 @@
 # BoardGame
+this is a project that I made in two hours. feel free to do whatever you want with it.
 ### Details on game rules:   
 short game (1) will make a 28 tile board and need 25 gold to win. Passing the start will give 5 gold and 5 gold for landing on it.  
 medium game (2) will make a 40 tile board and need 25 gold to win. Passing the start will give 10 gold and 5 gold for landing on it.   
